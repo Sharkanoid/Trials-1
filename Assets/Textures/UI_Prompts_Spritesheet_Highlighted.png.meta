@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: 212dc25bdf5fb2943b0e3c29772bd595
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI_Prompts_Spritesheet_Highlighted_0
+    21300002: UI_Prompts_Spritesheet_Highlighted_1
+    21300004: UI_Prompts_Spritesheet_Highlighted_2
+    21300006: UI_Prompts_Spritesheet_Highlighted_3
+    21300008: UI_Prompts_Spritesheet_Highlighted_4
+    21300010: UI_Prompts_Spritesheet_Highlighted_5
+    21300012: UI_Prompts_Spritesheet_Highlighted_6
+    21300014: UI_Prompts_Spritesheet_Highlighted_7
+    21300016: UI_Prompts_Spritesheet_Highlighted_8
+    21300018: UI_Prompts_Spritesheet_Highlighted_9
+    21300020: UI_Prompts_Spritesheet_Highlighted_10
+    21300022: UI_Prompts_Spritesheet_Highlighted_11
+    21300024: UI_Prompts_Spritesheet_Highlighted_12
+    21300026: UI_Prompts_Spritesheet_Highlighted_13
+    21300028: UI_Prompts_Spritesheet_Highlighted_14
+    21300030: UI_Prompts_Spritesheet_Highlighted_15
+    21300032: UI_Prompts_Spritesheet_Highlighted_16
+    21300034: UI_Prompts_Spritesheet_Highlighted_17
+    21300036: UI_Prompts_Spritesheet_Highlighted_18
+    21300038: UI_Prompts_Spritesheet_Highlighted_19
+    21300040: UI_Prompts_Spritesheet_Highlighted_20
+    21300042: UI_Prompts_Spritesheet_Highlighted_21
+    21300044: UI_Prompts_Spritesheet_Highlighted_22
+    21300046: UI_Prompts_Spritesheet_Highlighted_23
+    21300048: UI_Prompts_Spritesheet_Highlighted_24
+    21300050: UI_Prompts_Spritesheet_Highlighted_25
+    21300052: UI_Prompts_Spritesheet_Highlighted_26
+    21300054: UI_Prompts_Spritesheet_Highlighted_27
+    21300056: UI_Prompts_Spritesheet_Highlighted_28
+    21300058: UI_Prompts_Spritesheet_Highlighted_29
+    21300060: UI_Prompts_Spritesheet_Highlighted_30
+    21300062: UI_Prompts_Spritesheet_Highlighted_31
+    21300064: UI_Prompts_Spritesheet_Highlighted_32
+    21300066: UI_Prompts_Spritesheet_Highlighted_33
+    21300068: UI_Prompts_Spritesheet_Highlighted_34
+    21300070: UI_Prompts_Spritesheet_Highlighted_35
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1229
+        width: 976
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebac44e81914c8b4297401b4f624ad44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_1
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 332
+        width: 921
+        height: 1655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4008ecdf17f484bba1f43884b3c291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_2
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1970
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7577026316fa4dbed04b8c93ee15e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_3
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 1973
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fdbca6426994442958d225ef675035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_4
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1761
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ac9c22e946577428133237e23b2155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_5
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1498
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964fbd53839e74b4c9b6930dd5fdfccd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_6
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 1270
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b344de5b7a858b46811d5f4f5140b5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 719
+        width: 15
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fd6109742b5f343810cf7b0588e05f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 993
+        width: 8
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34ac5ed13a661444a65f152918c4a57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_9
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1139
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd2fb1c4ce9b1e4d93836e4708c12f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 936
+        width: 172
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba87b8a1d5bba844fa2d53ad04a61556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 936
+        width: 190
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b5e41137b766046b94ff16d4f9974e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_12
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 820
+        width: 385
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a406ffb69e67af24c91dae105a6ad587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 729
+        width: 180
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ab8e3edf74c7a45ba2b1befc60279e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_14
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 734
+        width: 180
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c89b914e952f043ae37dd05a167eff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_15
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 557
+        width: 138
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae37e1f4a6ee3494bbba11db55493da4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_16
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 583
+        width: 93
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1ccce15a5667542b8048eb5873f7af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 454
+        width: 141
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376dc751ba80b714fb5f63d762acf071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_18
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 458
+        width: 195
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de80a5e83cf0f941a9d8385372c6b85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 225
+        width: 334
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e8832077277e4aa3ce2de84893bc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_20
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 342
+        width: 169
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879e1c2f67f4e1f4cb2361b506032305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 236
+        width: 146
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23ca1e041c239e4681aa7bd9f674148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_22
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 367
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925c65563ac559f4aac3c5f0195b2d30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_23
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 361
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d2b3df3acf5f8498595abeb7668ed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 220
+        width: 222
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fbfce6917dca74890b635eb7e3dbc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_25
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 219
+        width: 92
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e496b68ea64af244947a647b4f768f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_26
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 196
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202ce2c704daab241b904da445ce5362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_27
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 175
+        width: 166
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48895b0d7f5567408faa599b24eb901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_28
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 115
+        width: 144
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625939d67dcdc40479c7265b181acf64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_29
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 120
+        width: 139
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17c36332b25e794bbe013cc28464064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_30
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 166
+        width: 146
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62bbae6c0c6911479cb72cf7cbfd86d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 81
+        width: 115
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759c5dc047f3a2a448bbee0cc83bdc98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_32
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 80
+        width: 649
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e00b1aa5269d7914ebaf7d56659eecb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_33
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 76
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd54cd05dcae3294abf8348c740a2a69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_34
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 77
+        width: 90
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa5d27a9eaba024faf18d44e191ec96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Prompts_Spritesheet_Highlighted_35
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 77
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7509d936918524ab5f259577d1fb1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 43308f71d4b44074092f37b363a5aa31
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
